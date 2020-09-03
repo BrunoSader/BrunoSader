@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=BrunoSader&hide=stars&show_icons=true)]()
+[![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=BrunoSader&hide=stars&show_icons=true&count_private=true)]()
 
 <!--
 **BrunoSader/BrunoSader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

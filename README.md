@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Tools-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
 
-
+<!--
 ## Projects
 
 ### Tracking the state of covid-19 using Twitter
@@ -45,6 +45,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aymericcousaert&repo=file-attente)](https://github.com/aymericcousaert/file-attente)
 
+-->
 
 You can find me on [![LinkedIn][1.2]][1].
 
@@ -55,7 +56,8 @@ You can find me on [![LinkedIn][1.2]][1].
 
 [1]: https://www.linkedin.com/in/bruno-sader/
 
-<!--
+<!-- 
+
 **BrunoSader/BrunoSader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

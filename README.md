@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Tools-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
 
-<!--
+
 ## Projects
 
 ### Tracking the state of covid-19 using Twitter
@@ -31,11 +31,13 @@
 ![](https://img.shields.io/badge/Humanity%20&%20Inclusion-informational?style=flat&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbcee)
-
+<!--
 <center><img src="yemen-bombsite/augmentation.png" width="500"></center> 
 <center> <img src="yemen-bombsite/detection.gif" width="500"></center> 
-
+-->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mbettinger&repo=yemen-bombings-tracking)](https://github.com/mbettinger/yemen-bombings-tracking)
+
+<!--
 
 ### Skipt - Cross platform application (iOS/Android)
 ![](https://img.shields.io/badge/React%20Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)

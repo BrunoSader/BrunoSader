@@ -2,11 +2,11 @@
 
 [![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=BrunoSader&hide=stars&show_icons=true&count_private=true&cache_seconds=1800)]()
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++/C-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-C++/C-informational?style=flat&logo=c%2B%2B&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=red)
 ![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbcee)
 ![](https://img.shields.io/badge/Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbcee)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=orange)
@@ -18,9 +18,9 @@
 ## Projects
 
 ### Tracking the state of covid-19 using Twitter
-![](https://img.shields.io/badge/Humanity%20&%20Inclusion-informational?style=flat&logoColor=white&color=green)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Humanity%20&%20Inclusion-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=red)
+![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=red)
 ![](https://img.shields.io/badge/-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbcee)
 ![](https://img.shields.io/badge/mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
 
@@ -28,8 +28,8 @@
 
 
 ### Bombsite detection in Yemen
-![](https://img.shields.io/badge/Humanity%20&%20Inclusion-informational?style=flat&logoColor=white&color=green)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Humanity%20&%20Inclusion-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=red)
 ![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbcee)
 <!--
 <center><img src="yemen-bombsite/augmentation.png" width="500"></center> 

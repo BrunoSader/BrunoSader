@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=BrunoSader&hide=stars&show_icons=true&count_private=true)]()
+[![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=BrunoSader&hide=stars&show_icons=true&count_private=true&cache_seconds=1800)]()
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++/C-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
